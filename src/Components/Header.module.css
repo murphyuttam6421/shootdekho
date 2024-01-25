@@ -1,0 +1,38 @@
+.mainDiv {
+}
+.mainContainer {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #fce373;
+}
+.logo {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.listDiv {
+  width: 100%;
+}
+.listMaincontainer {
+  display: flex;
+  justify-content: center;
+  gap: 5rem;
+}
+.listMaincontainer li {
+  color: black;
+}
+.bookTicket {
+  margin-left: 20px;
+}
+.secondHeading {
+  width: 100%;
+  text-align: center;
+  background-color: #fce373;
+}
+.textStyle {
+  text-align: center;
+  font-size: 100px;
+  font-weight: 100;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
